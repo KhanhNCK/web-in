@@ -35,7 +35,7 @@
 				<a class="list-menu-rsp" href="{{route('trangchu')}}">Trang Chủ</a>
 				<a class="list-menu-rsp" href="{{route('inan')}}">In Ấn</a>
 				<a class="list-menu-rsp" href="{{route('quangcao')}}">Quảng Cáo</a>
-				<a class="list-menu-rsp" href="{{route('tuvan')}}">Lĩnh Vực Mở Rộng</a>			
+				<a class="list-menu-rsp" href="#">Lĩnh Vực Mở Rộng</a>			
 				<a class="list-menu-rsp" href="#">Tin tức</a>	
 
 			</div>
@@ -47,7 +47,7 @@
 				<li><a href="{{route('trangchu')}}">Trang chủ</a></li>
 				<li><a href="{{route('inan')}}">In ấn</a></li>
 				<li><a href="{{route('quangcao')}}">Quảng cáo</a></li>
-				<li><a href="{{route('tuvan')}}">Lĩnh vực mở rộng</a></li>
+				<li><a href="#">Lĩnh vực mở rộng</a></li>
 				<li><a href="#">Tin tức</a></li>
 
 			</ul>
