@@ -61,6 +61,9 @@ Route::get('quangcao_decan', function () {
 Route::get('inan', function () {
     return view('pages.inan');
 })->name('inan');
+Route::get('chitietsanpham', function () {
+    return view('pages.chitietsanpham');
+})->name('chitietsanpham');
 Route::get('tuvan', function () {
     return view('pages.tuvan');
 })->name('tuvan');
